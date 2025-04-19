@@ -1,1 +1,1 @@
-JS, HTML, CSS Pls put it in Views and thier own folder
+JS, HTML, CSS Pls put it in Public and thier own folder
