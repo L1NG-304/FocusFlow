@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>FocusFlow Login</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="container">
+    <h1 class="brand">FocusFlow</h1>
+    <div class="login-box">
+        <h2>Login</h2>
+        <form>
+            <input type="text" placeholder="ID" required />
+            <input type="password" placeholder="Password" required />
+            <div class="bottom-section">
+                <a href="./mvc/controllers/ForgotPassword">Forgot password ?</a>
+                <button type="submit">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>
+
