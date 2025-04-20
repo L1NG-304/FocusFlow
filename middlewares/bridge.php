@@ -1,3 +1,3 @@
 <?php
-require_once "./mvc/core/app.php";
+require_once "./mvc/Controllers/BaseControllers/app.php";
 ?>
